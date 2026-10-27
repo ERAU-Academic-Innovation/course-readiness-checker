@@ -23,7 +23,7 @@
 
     const cache = new Map();
 
-    const STOP_AFTER_PUBLISHED = false; // Set to false to allow checks even after the course is published - KOLTON EDIT
+    const STOP_AFTER_PUBLISHED = true; // Set to false to allow checks even after the course is published - KOLTON EDIT
 
 
     //CrossCourseLink allowed course IDs - KOLTON EDIT
